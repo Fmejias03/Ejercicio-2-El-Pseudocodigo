@@ -24,5 +24,7 @@ public class Ejercicio2 {
         System.out.println(cadena1 + " , valor2 = " + valor2);
         System.out.println(valor1 + " # " + CST);
     }
+
+    //Este codigo muestra el valor de "valor1" y "valor2" y despues muestra el valor de "valor1" y "CST"
     
 }

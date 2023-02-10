@@ -26,7 +26,6 @@ public static void main(String[] args) {
     valor2 = valor1;
     JOptionPane.showMessageDialog(null, "valor1 = " + valor1 + "; valor2 = " + valor2);
 }
+//Este codigo pide al usuario el valor de 1 y 2 mediante un Dialog y despues los muestra en la consola.
 
-
-    
 }

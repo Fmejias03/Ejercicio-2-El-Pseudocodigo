@@ -21,4 +21,6 @@ public class Ejercicio1 {
         a = 7;
         System.out.println("a = " + a + " y b = " + b);
     }
+
+    //Este codigo muestra el valor de "a" y "b", preestableciendo un valor predeterminado a "a" y "b" dependiendo de el valor de "a"
 }

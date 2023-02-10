@@ -23,6 +23,7 @@ Se ha desplazado a una velocidad de 92,5 km/h. */
         JOptionPane.showMessageDialog(null, "Se ha desplazado a una velocidad de " + velocidad + " km/h.");
     }
 
+    //Este codigo pide al usuario la distancia y el tiempo mediante unos Dialog y despues muestra la velocidad media de desplazamiento del usuario.
     
     
 }

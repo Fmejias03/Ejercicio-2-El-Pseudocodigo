@@ -3,7 +3,7 @@
 ## Nota:
 Mi repositorio:https://github.com/Fmejias03/Ejercicio-2-El-Pseudocodigo.git
 
-__Ejercicio 1: ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
+# Ejercicio 1: ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
 Algo ValoresDeLasVariables  
 variable a, b: entero  
@@ -16,10 +16,10 @@ Inicio
    escribir("a = " & a & " y b = " & b)  
 Fin 
 
-__Ejercicio 2: ¿Qué veremos al ejecutar el siguiente algoritmo?__
+# Ejercicio 2: ¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
-# ¿Qué veremos al ejecutar el siguiente algoritmo?  
+__¿Qué veremos al ejecutar el siguiente algoritmo?__
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
 Constante CST: real <- 49,78  
@@ -31,23 +31,23 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-__Ejercicio 3: ¿Qué hace este algoritmo?__
+# Ejercicio 3: ¿Qué hace este algoritmo?
 
 Algo QueHace  
-# ¿Qué hace este algoritmo?  
+__¿Qué hace este algoritmo?__
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
    valor2 <- enter("Introduza otro valor: ")  
-   # tratamiento 
+   __tratamiento__
    valor1 <- valor2  
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 
-__Ejercicio 4: Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.__
+# Ejercicio 4: Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
-A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
+__A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):__
 
 Introduzca la distancia recorrida (km).
 
