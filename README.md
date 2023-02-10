@@ -3,7 +3,7 @@
 ## Nota:
 Mi repositorio:https://github.com/Fmejias03/Ejercicio-2-El-Pseudocodigo.git
 
-Ejercicio 1: ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
+__Ejercicio 1: ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
 
 Algo ValoresDeLasVariables  
 variable a, b: entero  
@@ -16,7 +16,7 @@ Inicio
    escribir("a = " & a & " y b = " & b)  
 Fin 
 
-Ejercicio 2: ¿Qué veremos al ejecutar el siguiente algoritmo?
+__Ejercicio 2: ¿Qué veremos al ejecutar el siguiente algoritmo?__
 
 Algo QueVeremos 
 # ¿Qué veremos al ejecutar el siguiente algoritmo?  
@@ -31,7 +31,7 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-Ejercicio 3: ¿Qué hace este algoritmo?
+__Ejercicio 3: ¿Qué hace este algoritmo?__
 
 Algo QueHace  
 # ¿Qué hace este algoritmo?  
@@ -45,7 +45,7 @@ Inicio
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 
-Ejercicio 4: Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
+__Ejercicio 4: Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.__
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
