@@ -1,7 +1,7 @@
 # Ejercicio-2-El-Pseudocodigo
 
 ## Nota:
-Mi repositorio:https://github.com/Fmejias03/Ejercicio-2-El-Pseudocodigo.git
+Mi repositorio: https://github.com/Fmejias03/Tarea-2-El-Pseudocodigo.git
 
 # Ejercicio 1: ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
